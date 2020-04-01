@@ -7,6 +7,6 @@ Make sure node.js is installed on you machine, see: https://nodejs.org/en/downlo
 <b>Install:</b></br>
 $ git clone https://github.com/mike012/adjustEx1.git</br>
 <b>Usage:</b></br>
-$ cd adjustex1</br>
+$ cd adjustDevopsAssignment</br>
 $ node index.js</br>
 
