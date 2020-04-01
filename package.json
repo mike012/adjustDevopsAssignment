@@ -1,19 +1,26 @@
 {
-  "name": "@mike01/adjustex1",
+  "name": "adjustdevopsassignment",
   "version": "1.0.0",
-  "description": "excercise 1 for Adjust interview, by Michael Katz",
+  "description": "Adjust Devops Assignment",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mike012/adjustEx1.git"
+    "url": "git+https://github.com/mike012/adjustDevopsAssignment.git"
   },
   "author": "Michael Katz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mike012/adjustEx1/issues"
+    "url": "https://github.com/mike012/adjustDevopsAssignment/issues"
   },
-  "homepage": "https://github.com/mike012/adjustEx1#readme"
+  "homepage": "https://github.com/mike012/adjustDevopsAssignment#readme",
+  "keywords": [
+    "Adjust",
+    "Devops",
+    "Assignment",
+    "Michael",
+    "Katz"
+  ]
 }
