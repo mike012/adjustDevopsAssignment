@@ -1,0 +1,19 @@
+{
+  "name": "@mike01/adjustex1",
+  "version": "1.0.0",
+  "description": "excercise 1 for Adjust interview, by Michael Katz",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike012/adjustEx1.git"
+  },
+  "author": "Michael Katz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike012/adjustEx1/issues"
+  },
+  "homepage": "https://github.com/mike012/adjustEx1#readme"
+}
